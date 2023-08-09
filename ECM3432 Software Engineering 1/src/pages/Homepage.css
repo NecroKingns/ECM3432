@@ -1,0 +1,139 @@
+.desktop-1-child3 {
+  position: absolute;
+  top: 130px;
+  left: calc(50% - 720px);
+  width: 1440px;
+  height: 97px;
+}
+.my-account4,
+.rejuv3,
+.store4 {
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+  width: 76px;
+  flex-shrink: 0;
+}
+.my-account4,
+.store4 {
+  width: 59px;
+  cursor: pointer;
+}
+.my-account4 {
+  width: 129px;
+}
+.checkout4,
+.frame-div {
+  position: absolute;
+  top: 155px;
+  font-size: var(--font-size-11xl);
+}
+.frame-div {
+  left: 160px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-29xl);
+}
+.checkout4 {
+  left: 1184px;
+  font-weight: 600;
+  cursor: pointer;
+}
+.logo-icon3 {
+  position: absolute;
+  top: 9px;
+  left: 160px;
+  width: 170px;
+  height: 121px;
+  object-fit: cover;
+}
+.enhance-your {
+  margin: 0;
+}
+.homepage-description,
+.slogan {
+  position: absolute;
+  font-weight: 600;
+  display: inline-block;
+}
+.slogan {
+  top: 289px;
+  left: 160px;
+  font-size: 100px;
+  line-height: 90px;
+  width: 550px;
+}
+.homepage-description {
+  top: 495px;
+  left: 163px;
+  line-height: 32px;
+  width: 547px;
+}
+.trustpilot-logo-icon {
+  position: absolute;
+  top: 820px;
+  left: 160px;
+  width: 550px;
+  height: 280px;
+  object-fit: cover;
+}
+.contactaddress3,
+.trustpilot-comments {
+  position: absolute;
+  line-height: 32px;
+  font-weight: 600;
+  display: inline-block;
+}
+.trustpilot-comments {
+  top: 890px;
+  left: 758px;
+  width: 522px;
+  height: 290px;
+}
+.contactaddress3 {
+  top: 1428px;
+  left: 256px;
+  width: 265px;
+}
+.social-media-icon3 {
+  position: absolute;
+  top: 1566px;
+  left: 1016px;
+  width: 170px;
+  height: 54px;
+  object-fit: cover;
+}
+.desktop-13 {
+  position: relative;
+  background-color: var(--color-lightblue);
+  width: 1440px;
+  height: 1700px;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 0;
+}
+.homepage-image-icon {
+  position: absolute;
+  margin: 0 !important;
+  top: 280px;
+  left: 730px;
+  width: 550px;
+  height: 476px;
+  object-fit: cover;
+  z-index: 1;
+}
+.homepage {
+  position: relative;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 10px;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-saira-condensed);
+}

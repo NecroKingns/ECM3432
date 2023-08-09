@@ -1,0 +1,214 @@
+.desktop-1-child2 {
+  position: absolute;
+  top: 130px;
+  left: calc(50% - 720px);
+  width: 1440px;
+  height: 97px;
+}
+.my-account3,
+.rejuv2,
+.store3 {
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+  width: 76px;
+  flex-shrink: 0;
+}
+.my-account3,
+.store3 {
+  width: 59px;
+}
+.my-account3 {
+  width: 129px;
+  cursor: pointer;
+}
+.checkout3,
+.rejuv-container {
+  position: absolute;
+  top: 155px;
+  font-size: var(--font-size-11xl);
+  cursor: pointer;
+}
+.rejuv-container {
+  left: 160px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-29xl);
+}
+.checkout3 {
+  left: 1184px;
+  font-weight: 600;
+}
+.logo-icon2 {
+  position: absolute;
+  top: 9px;
+  left: 160px;
+  width: 170px;
+  height: 121px;
+  object-fit: cover;
+}
+.featured-sales {
+  position: absolute;
+  top: 277px;
+  left: 160px;
+  font-size: 35px;
+  font-weight: 600;
+}
+.image-2-icon1 {
+  position: absolute;
+  top: 336px;
+  left: 160px;
+  width: 265px;
+  height: 171px;
+  object-fit: cover;
+}
+.image-removebg-preview-3-1 {
+  position: relative;
+  width: 264px;
+  height: 56px;
+  object-fit: cover;
+}
+.span {
+  text-decoration: line-through;
+}
+.was-999-25-container {
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+  width: 261px;
+}
+.color-lipstick-set-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-12xs);
+}
+.add-to-checkout {
+  position: relative;
+  font-weight: 600;
+}
+.add-to-checkout-wrapper {
+  border-radius: var(--br-11xl);
+  background-color: var(--color-white);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-smi) var(--padding-3xl);
+  align-items: center;
+  justify-content: center;
+}
+.frame-parent {
+  position: absolute;
+  top: 507px;
+  left: 160px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-12xs);
+}
+.was-850-33-container {
+  position: absolute;
+  top: 611px;
+  left: 540px;
+  font-weight: 600;
+  display: inline-block;
+  width: 261px;
+}
+.add-to-checkout-container {
+  position: absolute;
+  top: 658px;
+  left: 540px;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-white);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-smi) var(--padding-3xl);
+  align-items: center;
+  justify-content: center;
+}
+.was-1000-33-container {
+  position: absolute;
+  top: 611px;
+  left: 920px;
+  font-weight: 600;
+  display: inline-block;
+  width: 261px;
+}
+.add-to-checkout-frame {
+  position: absolute;
+  top: 658px;
+  left: 920px;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-white);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-smi) var(--padding-3xl);
+  align-items: center;
+  justify-content: center;
+}
+.image-3-icon1,
+.image-4-icon {
+  position: absolute;
+  top: 336px;
+  left: 920px;
+  width: 265px;
+  height: 170px;
+  object-fit: cover;
+}
+.image-3-icon1 {
+  left: 540px;
+  height: 171px;
+}
+.etc {
+  position: absolute;
+  top: 834px;
+  left: 171px;
+  font-weight: 600;
+}
+.bridge-ln-frodsham-cheshire-w2 {
+  margin: 0;
+}
+.contactaddress2 {
+  position: absolute;
+  top: 1433px;
+  left: 160px;
+  font-size: var(--font-size-xl);
+  line-height: 32px;
+  font-weight: 600;
+  display: inline-block;
+  width: 265px;
+}
+.social-media-icon2 {
+  position: absolute;
+  top: 1562px;
+  left: 1107px;
+  width: 170px;
+  height: 54px;
+  object-fit: cover;
+}
+.desktop-12 {
+  position: relative;
+  background-color: var(--color-lightblue);
+  width: 1440px;
+  height: 1700px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.store2 {
+  position: relative;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  text-align: left;
+  font-size: var(--font-size-10xl);
+  color: var(--color-black);
+  font-family: var(--font-saira-condensed);
+}

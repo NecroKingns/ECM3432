@@ -1,0 +1,34 @@
+@import url("https://fonts.googleapis.com/css2?family=Saira+Condensed:wght@600&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-saira-condensed: "Saira Condensed";
+
+  /* font sizes */
+  --font-size-10xl: 29px;
+  --font-size-xl: 20px;
+  --font-size-11xl: 30px;
+
+  /* Colors */
+  --color-lightblue: #c7def1;
+  --color-black: #000;
+  --color-white: #fff;
+
+  /* Gaps */
+  --gap-5xs: 8px;
+  --gap-29xl: 48px;
+  --gap-226xl: 245px;
+  --gap-xl: 20px;
+  --gap-12xs: 1px;
+
+  /* Paddings */
+  --padding-smi: 13px;
+  --padding-3xl: 22px;
+
+  /* border radiuses */
+  --br-11xl: 30px;
+  --br-5xl: 24px;
+}

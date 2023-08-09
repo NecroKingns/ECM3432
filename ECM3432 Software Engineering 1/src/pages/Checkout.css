@@ -1,0 +1,154 @@
+.desktop-1-child {
+  position: absolute;
+  top: 130px;
+  left: calc(50% - 720px);
+  width: 1440px;
+  height: 97px;
+}
+.my-account,
+.rejuv,
+.store {
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+  width: 76px;
+  flex-shrink: 0;
+  cursor: pointer;
+}
+.my-account,
+.store {
+  width: 59px;
+}
+.my-account {
+  width: 129px;
+}
+.checkout1,
+.rejuv-parent {
+  position: absolute;
+  top: 155px;
+  font-size: var(--font-size-11xl);
+}
+.rejuv-parent {
+  left: 160px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-29xl);
+}
+.checkout1 {
+  left: 1184px;
+  font-weight: 600;
+}
+.logo-icon {
+  position: absolute;
+  top: 9px;
+  left: 160px;
+  width: 170px;
+  height: 121px;
+  object-fit: cover;
+}
+.bridge-ln-frodsham-cheshire-w {
+  margin: 0;
+}
+.contactaddress {
+  position: absolute;
+  top: 1428px;
+  left: 256px;
+  font-size: var(--font-size-xl);
+  line-height: 32px;
+  font-weight: 600;
+  display: inline-block;
+  width: 265px;
+}
+.social-media-icon {
+  position: absolute;
+  top: 1566px;
+  left: 1016px;
+  width: 170px;
+  height: 54px;
+  object-fit: cover;
+}
+.desktop-1-item {
+  position: absolute;
+  top: 459px;
+  left: 160px;
+  background-color: var(--color-white);
+  width: 1120px;
+  height: 304px;
+}
+.image-3-icon {
+  position: absolute;
+  top: 562px;
+  left: 160px;
+  width: 265px;
+  height: 171px;
+  object-fit: cover;
+}
+.earliest-delivery-21072023-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 297px;
+}
+.desktop-1-inner {
+  position: absolute;
+  top: 473px;
+  left: 160px;
+  width: 1120px;
+  height: 46px;
+}
+.color-lipstick-set-in-container,
+.your-shopping-basket {
+  position: absolute;
+  top: 562px;
+  left: 445px;
+  font-weight: 600;
+}
+.your-shopping-basket {
+  top: 314px;
+  left: 163px;
+}
+.proceed-to-checkout {
+  position: relative;
+  font-weight: 600;
+}
+.proceed-to-checkout-wrapper {
+  position: absolute;
+  top: 661px;
+  left: 1015px;
+  border-radius: var(--br-11xl);
+  background: linear-gradient(#ede52a, #ede52a), #fff;
+  width: 265px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-smi) var(--padding-3xl);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+}
+.desktop-1 {
+  position: relative;
+  background-color: var(--color-lightblue);
+  width: 1440px;
+  height: 1700px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.checkout {
+  position: relative;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  text-align: left;
+  font-size: var(--font-size-10xl);
+  color: var(--color-black);
+  font-family: var(--font-saira-condensed);
+}

@@ -1,0 +1,29 @@
+.image-1-icon {
+  position: relative;
+  width: 45px;
+  height: 45px;
+  object-fit: cover;
+}
+.search {
+  position: relative;
+  font-weight: 600;
+}
+.search-bar {
+  position: absolute;
+  top: 46px;
+  left: 350px;
+  border-radius: var(--br-5xl);
+  background-color: var(--color-white);
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.16);
+  width: 835px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--color-black);
+  font-family: var(--font-saira-condensed);
+}

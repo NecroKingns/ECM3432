@@ -1,0 +1,29 @@
+.dual-foundation-set {
+  position: relative;
+  font-weight: 600;
+}
+.dual-foundation-set-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.image-removebg-preview-4-1 {
+  position: relative;
+  width: 267px;
+  height: 57px;
+  object-fit: cover;
+}
+.frame-group {
+  position: absolute;
+  top: 507px;
+  left: 540px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  text-align: left;
+  font-size: var(--font-size-10xl);
+  color: var(--color-black);
+  font-family: var(--font-saira-condensed);
+}
